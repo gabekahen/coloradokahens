@@ -1096,7 +1096,7 @@ div.content-box.big div.content-box-info p {
 
 .testimonial-wrap {
     background: url('../img/plx2.jpg') 50% 0 no-repeat fixed;
-
+    background-size: cover;
 }
 
 .quote-wrap {
