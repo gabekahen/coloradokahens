@@ -970,6 +970,47 @@ div.content-box.big div.content-box-info p {
     background: #566473;
 }
 
+.venue-img {
+    margin-top: 10%;
+}
+
+.venue-img img {
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.row.centered {
+    text-align: center;
+}
+
+.lodging-rates.sub-title h3 {
+    margin-bottom: 35px;
+}
+
+.col-md-12.lodging-details {
+    float: none;
+    width: auto;
+    display: inline-block;
+    text-align: left;
+}
+
+.lodging-details ul {
+    list-style: none;
+    padding: 0;
+    white-space: nowrap;
+}
+
+.lodging-details strong {
+    text-transform: uppercase;
+    font-size: .8em;
+    min-width: 41%;
+    display: inline-block;
+}
+
+.lodging-link {
+    text-align: center;
+    margin-bottom: 4em;
+}
 
 /* Circle items */
 .ch-item {
@@ -2603,6 +2644,14 @@ ol.commentlist li:first-child {
         margin: 0;
         padding: 0;
         width: 95%;
+    }
+
+    .venue-img {
+        margin-top: 3%;
+    }
+
+    .lodging-details ul {
+        white-space: normal;
     }
 
 }
