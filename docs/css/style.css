@@ -1142,14 +1142,17 @@ div.content-box.big div.content-box-info p {
 
 .quote-wrap {
     background: url('../img/plx5.jpg') 50% 0 no-repeat fixed;
+    background-size: cover;
 }
 
 .subscription-wrap {
     background: url('../img/plx4.jpg') 50% 0 no-repeat fixed;
+    background-size: cover;
 }
 
 .fun-wrap {
     background: url('../img/plx3.jpg') 50% 0 no-repeat fixed;
+    background-size: cover;
 }
 
 
